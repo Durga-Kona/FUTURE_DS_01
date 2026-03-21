@@ -83,7 +83,7 @@ This project helped in:
 ## 🔗 Project Files
 
 * `task1_sales_analysis.ipynb`
-* `superstore_sales_analysis.csv`
+* `task1_superstore_sales_analysis.csv`
 
 ---
 
